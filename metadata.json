@@ -1,0 +1,5 @@
+{
+  "name": "Shared Minesweeper",
+  "description": "A real-time collaborative Minesweeper game where players work together to clear the board.",
+  "requestFramePermissions": []
+}
